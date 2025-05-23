@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>hello word12233331223333</h1>
+      <h1>hello word6666666666</h1>
       <h1>Numbse: {number}</h1>
       <button onClick={handleAdd}>Add</button>
     </div>
